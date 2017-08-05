@@ -9,4 +9,4 @@ And has "Microsoft Lumia 640" mobile in the cart priced Rs "10000"
 And Vat is "15" %
 When user checks out the cart
 Then confirmation of billing is generated with "Microsoft Lumia 640" mobile
-And Total price is Rs "11500"
+And Total price is Rs "1150"
